@@ -2,9 +2,11 @@
     font-family: 'Courier New', Courier, monospace;
     background-color: #c4c4c4;
     color: #434345;
+    width: 1200px;
     font: optional;
 }
 /* top-header */
+
 
 @media (min-width: 1200px) {}
 
