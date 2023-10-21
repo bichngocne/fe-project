@@ -1,4 +1,6 @@
-/* Header */
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
 /* top-header */
 
 @media (min-width: 1200px) {}
